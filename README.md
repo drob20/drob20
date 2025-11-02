@@ -22,7 +22,7 @@
 
 ### 🧠 **About Me**
 
-I’m **Devante Robinson**, a U.S. Navy Information Systems professional and cybersecurity student passionate about **Blue Team operations**, **threat detection**, and **incident response**.  
+I’m **drob20**, a U.S. Navy Sailor cybersecurity student passionate about **Blue Team operations**, **threat detection**, and **incident response**.  
 
 My focus is on defensive security and SOC analysis — detecting, investigating, and mitigating cyber threats through log correlation, network monitoring, and hands-on simulation.  
 
