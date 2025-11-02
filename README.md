@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">Devante Robinson | Blue Team Operations</h1>
+<h1 align="center">drob20 | Blue Team Operations</h1>
 
 <p align="center">
   <em>Blue Team Enthusiast | SOC Operations | Cyber Defense & Threat Detection</em>  
