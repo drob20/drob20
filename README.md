@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="b2d76e25-89e8-4b58-a226-6606295b806c.png" width="900px" alt="Cybersecurity Banner"/>
+  <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/efcc8d73-0e25-4034-ab52-8097233b306d" />
+
 </p>
 
 <h1 align="center">Devante Robinson | Blue Team Operations</h1>
