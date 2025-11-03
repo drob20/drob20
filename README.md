@@ -1,6 +1,5 @@
 <p align="center">
   <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/efcc8d73-0e25-4034-ab52-8097233b306d" />
-
 </p>
 
 <h1 align="center">drob20 | Blue Team Operations</h1>
@@ -61,30 +60,5 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
     <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia" />
     <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia" />
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia" />
-    <img src="https://img.shields.io/badge/ISC2-SSCP-green?style=for-the-badge&logo=isc2" />
-    <img src="https://img.shields.io/badge/TCM%20Security-PSAA-blue?style=for-the-badge&logo=tcm" />
-    <img src="https://img.shields.io/badge/TCM%20Security-PJPT-blue?style=for-the-badge&logo=tcm" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/IS
 
-<p align="center">
-  View all verified badges on <a href="https://www.credly.com/users/devante-robinson.c331874a/badges#credly">Credly</a>.
-</p>
-
----
-
-### 📚 **Currently Learning**
-- Advanced SOC analysis and detection engineering  
-- Threat hunting with SIEM data correlation  
-- Building automated log pipelines and alert workflows  
-
----
-
-### ⚡ **Mission Statement**
-> To strengthen cyber defense capabilities through continuous learning, hands-on simulation, and a commitment to operational excellence in Blue Team security.
-
----
-
-<p align="center">
-  <img src="873b9cfe-474c-48da-bd30-b3f3d6ed5f18.png" width="900px" alt="Cyber Defense Art"/>
-</p>
