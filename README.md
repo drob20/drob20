@@ -91,6 +91,3 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 ---
 
-<p align="center">
-  <img src="873b9cfe-474c-48da-bd30-b3f3d6ed5f18.png" width="900px" alt="Cyber Defense Art"/>
-</p>
