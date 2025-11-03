@@ -56,34 +56,35 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 <p align="center">
 
   <a href="https://www.credly.com/badges/16e12213-b372-4ab0-b462-992a1ddd7bc7">
-    <img src="https://img.shields.io/badge/A%2B-red?style=for-the-badge&logo=comptia" />
+    <img src="https://img.shields.io/badge/A%2B%20Certification-EA2D2E?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
 
   <a href="https://www.credly.com/badges/acc759c3-535e-47fd-8ac1-33140290dc88">
-    <img src="https://img.shields.io/badge/Network%2B-red?style=for-the-badge&logo=comptia" />
+    <img src="https://img.shields.io/badge/Network%2B-EA2D2E?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
 
   <a href="https://www.credly.com/badges/0bc8997c-8773-4d02-8ece-6aaa578acab7">
-    <img src="https://img.shields.io/badge/Security%2B-red?style=for-the-badge&logo=comptia" />
+    <img src="https://img.shields.io/badge/Security%2B-EA2D2E?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
 
   <a href="https://www.credly.com/badges/df80aeb9-0cf1-47b2-b0d5-90f30b30d0ea">
-    <img src="https://img.shields.io/badge/CySA%2B-red?style=for-the-badge&logo=comptia" />
+    <img src="https://img.shields.io/badge/CySA%2B-EA2D2E?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
 
   <a href="https://www.credly.com/badges/d9d583b1-f4cc-43fc-864c-9f914860cff9">
-    <img src="https://img.shields.io/badge/SSCP-green?style=for-the-badge&logo=isc2" />
+    <img src="https://img.shields.io/badge/SSCP-006241?style=for-the-badge&logo=isc2&logoColor=white" />
   </a>
 
   <a href="https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056#acc.kP0l1pfd">
-    <img src="https://img.shields.io/badge/PSAA-blue?style=for-the-badge&logo=tcmsecurity" />
+    <img src="https://img.shields.io/badge/PSAA-0057B7?style=for-the-badge&logo=tcmsecurity&logoColor=white" />
   </a>
 
   <a href="https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d?key=4d7b12c848fb4a56930fb76661425e4bc1138b91364af2e28cb092e7ef65cce3#acc.yvn2Zhza">
-    <img src="https://img.shields.io/badge/PJPT-blue?style=for-the-badge&logo=tcmsecurity" />
+    <img src="https://img.shields.io/badge/PJPT-0057B7?style=for-the-badge&logo=tcmsecurity&logoColor=white" />
   </a>
 
 </p>
+
 
 
 ---
