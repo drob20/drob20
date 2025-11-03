@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/devante-robinson-3066a0104/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.credly.com/users/devante-robinson.c331874a/badges#credly">
+  
     <img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=drob20&style=for-the-badge&color=blue" alt="profile views"/>
