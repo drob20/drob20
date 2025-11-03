@@ -62,7 +62,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
   <!-- CompTIA Network+ -->
   <a href="https://www.credly.com/badges/acc759c3-535e-47fd-8ac1-33140290dc88">
-    <img src="https://img.shields.io/static/v1?label=CompTIA&message=Network%2B&labelColor=8B0000&color=EA2D2E&style=for-the-badge&logo=comptia&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields./static/v1?label=CompTIA&message=Network%2B&labelColor=8B0000&color=EA2D2E&style=for-the-badge&logo=comptia&logoColor=white&logoWidth=20" />
   </a>
 
   <!-- CompTIA Security+ -->
