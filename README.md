@@ -83,14 +83,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
     <img src="https://img.shields.io/badge/TCM%20Security-PJPT-blue?style=for-the-badge&logo=tcmsecurity" />
   </a>
 
-</p>
-
-<p align="center">
-  View all verified badges on <a href="https://www.credly.com/users/devante-robinson.c331874a/badges#credly">Credly</a>.
-</p>
-
 ---
-
 ### 📚 **Currently Learning**
 - Advanced SOC analysis and detection engineering  
 - Threat hunting with SIEM data correlation  
