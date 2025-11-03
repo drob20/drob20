@@ -13,9 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   
-    <img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=drob20&style=for-the-badge&color=blue" alt="profile views"/>
+ <img src="https://komarev.com/ghpvc/?username=drob20&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
 ---
