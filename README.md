@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/efcc8d73-0e25-4034-ab52-8097233b306d" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a8981fb-e061-4ac0-9085-967190188e5f" />
+
 </p>
 
 <h1 align="center">drob20 | Blue Team Operations</h1>
