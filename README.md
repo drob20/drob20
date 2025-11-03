@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 **About Me**
+###  **About Me**
 
 I’m **drob20**, a U.S. Navy Sailor and cybersecurity student passionate about **Blue Team operations**, **threat detection**, and **incident response**.  
 
@@ -38,7 +38,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 ---
 
-### 🧰 **Technical Focus Areas**
+###  **Technical Focus Areas**
 
 | Category | Skills & Tools |
 |-----------|----------------|
@@ -51,39 +51,43 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 ---
 
-### 🏅 **Certifications**
+###  **Certifications**
 
 <p align="center">
 
-  <!-- 🔵 Blue Team -->
-  <a href="https://www.credly.com/badges/df80aeb9-0cf1-47b2-b0d5-90f30b30d0ea">
-    <img src="https://img.shields.io/badge/CySA%2B-007BFF?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=30" />
-  </a>
-
-  <a href="https://www.credly.com/badges/d9d583b1-f4cc-43fc-864c-9f914860cff9">
-    <img src="https://img.shields.io/badge/SSCP-007BFF?style=for-the-badge&logo=isc2&logoColor=white&logoWidth=30" />
-  </a>
-
-  <a href="https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056">
-    <img src="https://img.shields.io/badge/PSAA-007BFF?style=for-the-badge&logo=tcmsecurity&logoColor=white&logoWidth=30" />
-  </a>
-
-  <!-- 🔴 Red Team -->
-  <a href="https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d?key=4d7b12c848fb4a56930fb76661425e4bc1138b91364af2e28cb092e7ef65cce3">
-    <img src="https://img.shields.io/badge/PJPT-C41E3A?style=for-the-badge&logo=tcmsecurity&logoColor=white&logoWidth=30" />
-  </a>
-
-  <a href="https://www.credly.com/badges/0bc8997c-8773-4d02-8ece-6aaa578acab7">
-    <img src="https://img.shields.io/badge/Security%2B-C41E3A?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=30" />
-  </a>
-
-  <!-- 🟣 Purple / Core IT -->
+  <!-- A+ -->
   <a href="https://www.credly.com/badges/16e12213-b372-4ab0-b462-992a1ddd7bc7">
-    <img src="https://img.shields.io/badge/A%2B-6A0DAD?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=30" />
+    <img src="https://img.shields.io/badge/A%2B-434343?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=48" />
   </a>
 
+  <!-- Network+ -->
   <a href="https://www.credly.com/badges/acc759c3-535e-47fd-8ac1-33140290dc88">
-    <img src="https://img.shields.io/badge/Network%2B-6A0DAD?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=30" />
+    <img src="https://img.shields.io/badge/Network%2B-434343?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=48" />
+  </a>
+
+  <!-- Security+ -->
+  <a href="https://www.credly.com/badges/0bc8997c-8773-4d02-8ece-6aaa578acab7">
+    <img src="https://img.shields.io/badge/Security%2B-434343?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=48" />
+  </a>
+
+  <!-- CySA+ -->
+  <a href="https://www.credly.com/badges/df80aeb9-0cf1-47b2-b0d5-90f30b30d0ea">
+    <img src="https://img.shields.io/badge/CySA%2B-434343?style=for-the-badge&logo=comptia&logoColor=white&logoWidth=48" />
+  </a>
+
+  <!-- SSCP -->
+  <a href="https://www.credly.com/badges/d9d583b1-f4cc-43fc-864c-9f914860cff9">
+    <img src="https://img.shields.io/badge/SSCP-434343?style=for-the-badge&logo=isc2&logoColor=white&logoWidth=48" />
+  </a>
+
+  <!-- PSAA -->
+  <a href="https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056">
+    <img src="https://img.shields.io/badge/PSAA-434343?style=for-the-badge&logo=tcmsecurity&logoColor=white&logoWidth=48" />
+  </a>
+
+  <!-- PJPT -->
+  <a href="https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d?key=4d7b12c848fb4a56930fb76661425e4bc1138b91364af2e28cb092e7ef65cce3">
+    <img src="https://img.shields.io/badge/PJPT-434343?style=for-the-badge&logo=tcmsecurity&logoColor=white&logoWidth=48" />
   </a>
 
 </p>
@@ -93,14 +97,14 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 
 ---
-### 📚 **Currently Learning**
+###  **Currently Learning**
 - Advanced SOC analysis and detection engineering  
 - Threat hunting with SIEM data correlation  
 - Building automated log pipelines and alert workflows  
 
 ---
 
-### ⚡ **Mission Statement**
+###  **Mission Statement**
 > To strengthen cyber defense capabilities through continuous learning, hands-on simulation, and a commitment to operational excellence in Blue Team security.
 
 ---
