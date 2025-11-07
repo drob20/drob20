@@ -6,7 +6,7 @@
 <h1 align="center">drob20 | Blue Team Operations</h1>
 
 <p align="center">
-  <em>Blue Team Enthusiast | SOC Operations | Cyber Defense & Threat Detection</em>  
+  <em>Blue Team  | SOC Operations | Cyber Defense & Threat Detection</em>  
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I’m **drob20**, a U.S. Navy Sailor and cybersecurity student passionate about 
 
 My focus is on defensive security and SOC analysis — detecting, investigating, and mitigating cyber threats through log correlation, network monitoring, and hands-on simulation.  
 
-To develop my skills, I’ve built a custom **SOC lab environment** on **Proxmox**, integrating tools like **Wazuh**, **pfSense**, and **Kali Linux** to recreate realistic blue-team workflows and adversary scenarios.  
+To develop my skills, I’ve built a custom **SOC lab environment** on **Proxmox**, integrating tools like **Wazuh**, **pfSense**,**Suricata** and **Kali Linux** to recreate realistic blue-team workflows and adversary scenarios.  
 
 I also sharpen my detection and analysis skills through **Capture the Flag (CTF)** events, threat-hunting exercises, and continuous professional development.
 
@@ -33,7 +33,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 ###  **Cyber Projects**
 - [**Phishing-Analysis**](https://github.com/drob20/Phishing-Analysis) - Phishing email analyses with indicators of compromise (IOCs), header reviews, and sandbox results for blue-team research.
-- [**Project CyberDefense**](https://github.com/drob20/project-cyberdefense) - My home SOC lab environment simulating enterprise Blue Team operations using pfSense, Wazuh, and Kali Linux for adversary simulation.  
+- [**Project CyberDefense**](https://github.com/drob20/project-cyberdefense) - My home SOC lab environment simulating enterprise Blue Team operations using pfSense, Suricata, Wazuh, and Kali Linux for adversary simulation.  
 - *(Future)* **Threat Hunting Playbook** — Documenting incident response workflows and detection rules developed within the lab.  
 - *(Future)* **SOC Metrics Dashboard** — Visualizing alerts, log ingestion, and endpoint telemetry from Wazuh.
 
