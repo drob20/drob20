@@ -25,7 +25,7 @@ I’m **drob20**, a U.S. Navy Sailor and cybersecurity student passionate about 
 
 My focus is on defensive security and SOC analysis — detecting, investigating, and mitigating cyber threats through log correlation, network monitoring, and hands-on simulation.  
 
-To develop my skills, I’ve built a custom **SOC lab environment** on **Proxmox**, integrating tools like **Wazuh**, **pfSense**,**Suricata** and **Kali Linux** to recreate realistic blue-team workflows and adversary scenarios.  
+To develop my skills, I’ve built a custom **SOC lab environment** on **Proxmox**, integrating tools like **Wazuh**, **pfSense**, **Suricata** and **Kali Linux** to recreate realistic blue-team workflows and adversary scenarios.  
 
 I also sharpen my detection and analysis skills through **Capture the Flag (CTF)** events, threat-hunting exercises, and continuous professional development.
 
