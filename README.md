@@ -45,7 +45,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 |-----------|----------------|
 | **SIEM / EDR** | Wazuh, Sysmon, Elastic Stack |
 | **Networking** | pfSense, VLAN Segmentation, Firewall Rules, Traffic Analysis |
-| **Detection Engineering** | Log Correlation, Rule Tuning, Suricata IDS, Sigma Rules |
+| **Detection Engineering** | Log Correlation, Rule Tuning, Suricata IDS, |
 | **OS & Infrastructure** | Windows Server, Ubuntu, Active Directory, Proxmox VE |
 | **Threat Simulation** | Kali Linux, Nmap, Metasploit, Hashcat |
 | **Incident Response** | Triage, Root Cause Analysis, IOC Hunting, Reporting |
