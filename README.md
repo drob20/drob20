@@ -79,9 +79,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 <!-- TCM Security -->
 <img src="https://img.shields.io/badge/TCM%20Security-lightgrey?style=flat" />
-<a href="https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65">
-  <img src="https://img.shields.io/badge/PSAA-0057B7?style=flat" />
-</a>
+<a href=https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056 />
 <a href="https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d">
   <img src="https://img.shields.io/badge/PJPT-0057B7?style=flat" />
 </a>
