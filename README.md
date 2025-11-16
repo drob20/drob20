@@ -79,9 +79,14 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 
 <!-- TCM Security -->
 <img src="https://img.shields.io/badge/TCM%20Security-lightgrey?style=flat" />
-[![TCM Security](https://img.shields.io/badge/Practical%20SOC%20Analyst%20Associate-000000?style=flat&logo=tcm-security&logoColor=white)](https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056)
+<!-- TCM Security -->
+<a href="https://certified.tcm-sec.com/edb7e82d-3f8d-45d0-9d1d-351c84d6fb65?key=94f5301a9cadb753c150b43244bd250ef36a594941faec634312534a79af8056">
+  <img src="https://img.shields.io/badge/Practical%20SOC%20Analyst%20Associate-000000?style=flat&logo=tcm-security&logoColor=white" />
+</a>
 
-[![TCM Security](https://img.shields.io/badge/Practical%20Junior%20Penetration%20Tester-000000?style=flat&logo=tcm-security&logoColor=white)](https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d?key=4d7b12c848fb4a56930fb76661425e4bc1138b91364af2e28cb092e7ef65cce3)
+<a href="https://certified.tcm-sec.com/fb33bb5b-39db-4729-af78-7b4b2dd35f9d?key=4d7b12c848fb4a56930fb76661425e4bc1138b91364af2e28cb092e7ef65cce3">
+  <img src="https://img.shields.io/badge/Practical%20Junior%20Penetration%20Tester-000000?style=flat&logo=tcm-security&logoColor=white" />
+</a>
 
 
 ---
