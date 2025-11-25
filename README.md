@@ -34,7 +34,7 @@ I also sharpen my detection and analysis skills through **Capture the Flag (CTF)
 ###  **Cyber Projects**
 - [**Phishing-Analysis**](https://github.com/drob20/Phishing-Analysis) - Phishing email analyses with indicators of compromise (IOCs), header reviews, and sandbox results for blue-team research.
 - [**Project CyberDefense**](https://github.com/drob20/project-cyberdefense) – My home SOC lab environment simulating enterprise Blue Team operations using pfSense, Suricata, Wazuh, and Kali Linux for adversary simulation.
-  -  **[Cases 01 – Detection & Analysis Scenarios](https://github.com/drob20/project-cyberdefense/tree/main/Cases)** — Documented attack simulations, Suricata alerts, Wazuh triage workflows, and endpoint telemetry investigations.
+  -  **[Cases 01 – Detection & Analysis Scenarios](https://github.com/drob20/project-cyberdefense/tree/main/Cases)** — Doucment how Nmap scan appears on the network and how Suricata and Wazuh capture, log, and display the event.
 
 - *(Future)* **Threat Hunting Playbook** — Documenting incident response workflows and detection rules developed within the lab.  
 - *(Future)* **SOC Metrics Dashboard** — Visualizing alerts, log ingestion, and endpoint telemetry from Wazuh.
